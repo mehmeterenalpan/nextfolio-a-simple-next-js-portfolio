@@ -16,8 +16,8 @@ export default function Photos() {
         images={[
           {
             src: "/photos/photo1.jpg",
-            alt: "Roman columns",
-            href: "https://unsplash.com/photos/people-walking-near-building-during-daytime-dFLBDQQeffU?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash",
+            alt: "Roman columns"
+            
           },
           {
             src: "/photos/photo2.jpg",
