@@ -15,7 +15,7 @@ export default function Page() {
       />
       <h1 className="mb-4 text-3xl font-semibold">Mehmet Eren Alpan</h1>
       <p className="mb-2 text-lg text-gray-600 dark:text-gray-400">
-        Aspiring Ethical Hacker | Builder | Explorer
+        Cybersecurity Enthusiast | Coder | Student
       </p>
       <p className="mb-6 text-sm text-gray-500 dark:text-gray-400">
         Building things that matter. Exploring tech, education, and security.
@@ -25,8 +25,8 @@ export default function Page() {
         <h2>About Me</h2>
         <p>
           I'm an 18-year-old student passionate about cybersecurity, robotics, and competitive programming.
-          I've led FRC teams, earned my CEH certification, and helped organize national coding competitions.
-          I love building real-world solutions through code and learning by doing.
+          I've led FRC team #8263 ROBIN, earned my CEH certification, and participating national coding competitions.
+          I also love reading books about neuroscience and space.
         </p>
       </div>
     </section>
